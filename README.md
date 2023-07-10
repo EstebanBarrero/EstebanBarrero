@@ -4,5 +4,5 @@
 ## About me 🇨🇴
 
 - ⭐ Innovation and development lover
-- ✏️ UPTC Student
+- 💛🖤 UPTC Student
 - 🖥️ FrontEnd Developer
