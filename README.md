@@ -5,8 +5,6 @@
 
 ---
 
-## 🚀 About Me 🇨🇴
-
 I am a Systems and Computer Engineering graduate with hands-on experience designing and deploying AI-powered and full-stack solutions that solve real-world problems.
 
 I specialize in building scalable, data-driven applications by combining machine learning, cloud technologies, and modern web frameworks.
